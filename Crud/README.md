@@ -1,6 +1,10 @@
 # Crud
-- Customer register
+- Customer register.
 
 ### V1.0
-- Added Components
-- Added new dependencies
+- Added Components.
+- Added new dependencies.
+
+### V1.1
+- Added css customization (logo, backgrounds, padding etc).
+- Added "Home" component.

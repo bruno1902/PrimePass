@@ -2,6 +2,8 @@ import './Footer.css'
 import React from 'react'
 
 export default props =>
-    <aside className="footer">
-        Rodape
-    </aside>
+    <footer className="footer">
+        <span>
+            Desenvolvido por Bruno Souza Di leo
+        </span>
+    </footer>
