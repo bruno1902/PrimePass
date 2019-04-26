@@ -14,3 +14,7 @@
 
 ### V1.3
 - Added new features in "UserCrud".
+
+### V1.4
+- Added responsive page
+- Added backend

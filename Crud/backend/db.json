@@ -1,11 +1,9 @@
 {
-    "users": [{
-        "id":1,
-        "name": "Bruno Souza Di Leo",
-        "email" : "brunodileo@live.com"
-    }, {
-        "id": "Maria Julia",
-        "name:": "Maria Julia",
-        "email": "marijulia@hotmail.com"
-    }]
+  "users": [
+    {
+      "name": "Bruno Souza Di Leo",
+      "email": "brunodileo@live.com",
+      "id": 1
+    }
+  ]
 }
