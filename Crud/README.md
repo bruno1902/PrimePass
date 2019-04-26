@@ -11,3 +11,6 @@
 
 ### V1.2
 - Added Routes.
+
+### V1.3
+- Added new features in "UserCrud".
